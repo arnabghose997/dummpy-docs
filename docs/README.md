@@ -1,5 +1,6 @@
 # dummpy-docs v0.0.0
 
-Documents
+Documentss
 --------
 * [User Guide](user-guide.md)
+* [Second Page](second-page.md)
